@@ -1,0 +1,1 @@
+﻿public enum GameStateType { None, Game, Pause, GameOver }
